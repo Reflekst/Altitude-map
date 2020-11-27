@@ -1,0 +1,10 @@
+C:\Users\darek\source\repos\Map\Map\obj\Debug\Map.csprojAssemblyReference.cache
+C:\Users\darek\source\repos\Map\Map\obj\Debug\RandomPixelImage.Form1.resources
+C:\Users\darek\source\repos\Map\Map\obj\Debug\Map.Properties.Resources.resources
+C:\Users\darek\source\repos\Map\Map\obj\Debug\Map.csproj.GenerateResource.cache
+C:\Users\darek\source\repos\Map\Map\obj\Debug\Map.csproj.CoreCompileInputs.cache
+C:\Users\darek\source\repos\Map\Map\bin\Debug\Map.exe.config
+C:\Users\darek\source\repos\Map\Map\bin\Debug\Map.exe
+C:\Users\darek\source\repos\Map\Map\bin\Debug\Map.pdb
+C:\Users\darek\source\repos\Map\Map\obj\Debug\Map.exe
+C:\Users\darek\source\repos\Map\Map\obj\Debug\Map.pdb
